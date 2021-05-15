@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1328076708?ticket=47BC2D8CED5F959279BF61DF3138768BCA527F98&profile=pass
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/345706949?ticket=1898DDA7710186AE0D909A2E2EDE5745E931C602&profile=pass
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1120900929?ticket=4356337844E00E8BEE6F8D23CAE7DF4FED4B8E8B&profile=pass
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/735894113?ticket=32368646703F413D6E3582A2785EF4DEFA9D989E&profile=pass
+#EXTINF:0,Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/399316699?ticket=9B8909B82C46A9AD14AD50CCF8AC5C52599B572C&profile=pass
+#EXTINF:0,Fox Sports Premium HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/2087213762?ticket=909B1105828368C170E87D1C17EAEC0EA51485F1&profile=pass
+#EXTINF:0,HBO Family Full HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/456325932?ticket=37672043E206D73175ABDB0C697A7CAB6F7F48D3&profile=pass
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1250277975?ticket=055EE81288E660A27CC27DE5A266FDCFDCAAB01A&profile=pass
+#EXTINF:0,Space HD *
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/659324492?ticket=EAEB81351AEC7BE9E0913F9FB5B20A3B6B338674&profile=pass
+#EXTINF:0,TNT HD *
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1175691798?ticket=4916FEB2D0C8E549E4577DAB44F0C128D4BA57AA&profile=pass
+#EXTINF:0,TNT Series HD *
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1762094156?ticket=A863D75897AFC1013521FC9CAC3FD87E5B5B829C&profile=pass
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/23087794?ticket=8820CC832242B4926EAE1B886E0DC62D288862CF&profile=pass
+#EXTINF:0,Warner Channel HD *
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1716220080?ticket=D79E5CE78B2AA6FB0C48312AFDC6227F6CE5F567&profile=pass
+#EXTINF:0,Natgeo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1686171464?ticket=84AFC1314B50FE3857C37BEE6433250EBAD137BA&profile=pass
+#EXTINF:0,Paramount Full HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/500473184?ticket=7B0452B772B2C1EE2AF71786A8098F72B23C7757&profile=pass
+#EXTINF:0,Studio Universal Full HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1107758541?ticket=9DEB1051D067777B3BE681EC2A8DBF32F12B4E74&profile=pass
