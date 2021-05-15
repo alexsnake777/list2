@@ -2,9 +2,6 @@
 #EXTINF:0,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.1.92:9981/stream/channelid/1328076708?ticket=47BC2D8CED5F959279BF61DF3138768BCA527F98&profile=pass
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.1.92:9981/stream/channelid/345706949?ticket=1898DDA7710186AE0D909A2E2EDE5745E931C602&profile=pass
 #EXTINF:0,Cartoon Network HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.1.92:9981/stream/channelid/1120900929?ticket=4356337844E00E8BEE6F8D23CAE7DF4FED4B8E8B&profile=pass
