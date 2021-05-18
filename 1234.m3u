@@ -62,3 +62,39 @@ http://192.168.29.2/6.m3u8
 #EXTINF:50,TRECE
 #EXTVLCOPT:network-caching=1000
 http://192.168.29.2/2.m3u8
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/2120919110?ticket=D04ABCD4778359694B3AF292197016449A0C1330&profile=pass
+#EXTINF:0,Cinemax Full
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/898015852?ticket=F7CDA3280499A25D769F600E604FE6A482E090E7&profile=pass
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1945450564?ticket=E7EDC0D96E8672CCF2B72993E3ACAF04C91FDB2D&profile=pass
+#EXTINF:0,Discovery Home and Health
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1540006577?ticket=AB6738010C63E8CD0A57BC042CAB6AF21617CB4F&profile=pass
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/160473475?ticket=33406F290D989E319F7766D3C06C61E0680A18E0&profile=pass
+#EXTINF:0,Fox HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1837762305?ticket=7B555B661EFB86ABBC050FA0F073604D53791AFF&profile=pass
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1210066171?ticket=27CD071BD503DB6E38675A4BDC9EE77495CE3C3D&profile=pass
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1411346884?ticket=F6844DDF3B2FDE3345BBFFA87347207CF56ACB7F&profile=pass
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/611408131?ticket=7FDFF8BD96B7DEB90FA7F85990A9494060A85751&profile=pass
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/184391700?ticket=10DE118D3B6B07545ED41825C301C97E6F12E225&profile=pass
+#EXTINF:0,Paramount
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1475852659?ticket=93773CA6D6B8071ECF8AFDC79333DA2A6B2CC9F6&profile=pass
+#EXTINF:0,Universal Channel
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/52619076?ticket=D622991A73742F5942B23597D36000371375951D&profile=pass
