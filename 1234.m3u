@@ -89,9 +89,9 @@ http://admin:ultranet@192.168.1.92:9981/stream/channelid/1411346884?ticket=F6844
 #EXTINF:0,History
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.1.92:9981/stream/channelid/611408131?ticket=7FDFF8BD96B7DEB90FA7F85990A9494060A85751&profile=pass
-#EXTINF:0,Nick Jr
+#EXTINF:0,Discovery Kids HD
 #EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.1.92:9981/stream/channelid/184391700?ticket=10DE118D3B6B07545ED41825C301C97E6F12E225&profile=pass
+http://admin:ultranet@192.168.1.92:9981/stream/channelid/1679474105?ticket=16D53AA7465A241C86F19B3FF1C984E70B84CFCA&profile=pass
 #EXTINF:0,Paramount
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.1.92:9981/stream/channelid/1475852659?ticket=93773CA6D6B8071ECF8AFDC79333DA2A6B2CC9F6&profile=pass
