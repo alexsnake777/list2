@@ -14,7 +14,7 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1120900929?ticket=0EA7B
 #EXTINF:0,Cinecanal HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/735894113?ticket=50CA08D3F461DFE9003E9EE782CB0E88B0909A3B&profile=pass
-#EXTINF:0,Cinemax Full
+#EXTINF:0,ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/898015852?ticket=19DB491AD6923FAAA92F54A581EF09227A5F7073&profile=pass
 #EXTINF:0,Discovery Channel
