@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Animal Planet HD
+#EXTINF:-1,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1328076708?ticket=5A65B6485A48DC7BF0B567117884ECE557CA9753&profile=pass
 #EXTINF:0,AXN HD
