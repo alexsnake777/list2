@@ -59,9 +59,9 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1686171464?ticket=8105F
 #EXTINF:0,Paramount
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1475852659?ticket=8E95EAC30EF3C76EB3DBE4B47DAC12071984997D&profile=pass
-#EXTINF:0,Paramount Full HD
+#EXTINF:0,A&E
 #EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/500473184?ticket=425F1878E71C5946E1E246550504B3D987CCBC62&profile=pass
+http://admin:ultranet@192.168.29.5:9981/stream/channelid/500473184?ticket=FFC36AA462A36244C847FE34675D3BFFA68D921D&profile=pass
 #EXTINF:0,Space HD *
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/659324492?ticket=98B31DF22BF046E52BD70C2B2C1490A43AFDDE76&profile=pass
