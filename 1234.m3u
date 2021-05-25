@@ -11,7 +11,7 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/2120919110?ticket=B86E8
 #EXTINF:0,Cartoon Network HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1120900929?ticket=0EA7BE256B7B41DD957D08BC8911081F76B67B86&profile=pass
-#EXTINF:0,Cinecanal HD
+#EXTINF:0,Cinecanal
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/735894113?ticket=50CA08D3F461DFE9003E9EE782CB0E88B0909A3B&profile=pass
 #EXTINF:0,ESPN HD
@@ -23,7 +23,7 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1945450564?ticket=7DCAF
 #EXTINF:0,Discovery Home and Health
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1540006577?ticket=B991AF2F1BF1C07D5EC4F57B960899919737E6BB&profile=pass
-#EXTINF:0,Discovery Kids HD
+#EXTINF:0,Discovery Kids
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1679474105?ticket=C381D70190891E3126845A4274509C1F18F8AEF9&profile=pass
 #EXTINF:0,Disney Jr
@@ -62,13 +62,13 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1475852659?ticket=8E95E
 #EXTINF:0,A&E
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/500473184?ticket=FFC36AA462A36244C847FE34675D3BFFA68D921D&profile=pass
-#EXTINF:0,Space HD *
+#EXTINF:0,Space HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/659324492?ticket=98B31DF22BF046E52BD70C2B2C1490A43AFDDE76&profile=pass
 #EXTINF:0,Studio Universal Full HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1107758541?ticket=E1EBA2DE3359651FD6FB6F9D5F945A36FDF6D058&profile=pass
-#EXTINF:0,TNT HD *
+#EXTINF:0,TNT HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1175691798?ticket=1FED54EDF2E8D5C51D9FA3EAF3F07048621F58CD&profile=pass
 #EXTINF:0,TNT Series
@@ -80,7 +80,7 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/23087794?ticket=126B75B
 #EXTINF:0,Universal Channel
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/52619076?ticket=B675624474A2D0410E5172CBF5DAAF12DF58E9C4&profile=pass
-#EXTINF:0,Warner Channel HD *
+#EXTINF:0,Warner Channel HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1716220080?ticket=84ADE5DA8BD8B6AFBADB74C047BCAD995D112B1D&profile=pass
 #EXTINF:50,TVN
