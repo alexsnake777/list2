@@ -66,10 +66,10 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1748260964?ticket=AE2D8
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/15510802?ticket=C386D437B4EA6E94A4DA3B09D928B49A9E49D70E&profile=pass
 #EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1411346884?ticket=2770C0A06DBB520006E229ACE4A741053473C7F7&profile=pass
 #EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/490627453?ticket=8EC270330F9525D5CFFDD9342319124EDA6F3788&profile=pass
 #EXTINF:0,HBO Family Full HD
 #EXTVLCOPT:network-caching=1000
