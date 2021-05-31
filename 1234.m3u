@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,A&E
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/500473184?ticket=EBC1E0D656864C8A2A7E8829826A6B71AC0D2F5F&profile=pass
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1848455507?ticket=E36B9C5350A9E4C3AF1E8355CE348EC8C1B55AC9&profile=pass
@@ -11,9 +8,6 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1328076708?ticket=C89F0
 #EXTINF:0,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/345706949?ticket=09E54055565705BF4E8ED713852B650167CE88BE&profile=pass
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/2120919110?ticket=2889E1E15FFD0B877FD03B94A5A24F9564903D04&profile=pass
 #EXTINF:0,Cartoon Network HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1120900929?ticket=E7EB1F30E1EBB755C6315959A04FEA5171987536&profile=pass
@@ -44,15 +38,15 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1837762305?ticket=7BFF9
 #EXTINF:0,Fox Premium Series
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/367066400?ticket=69179381410A950F7558482D98BECFCEF846961D&profile=pass
+#EXTINF:0,Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.29.5:9981/stream/channelid/276572667?ticket=2FDD108AA2E8C9421D9DD2DC4DFC3E7FB7761630&profile=pass
 #EXTINF:0,Fox Sports 2 HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/399316699?ticket=556A0E70F45556337C3A868CFBDD03E99C68883B&profile=pass
 #EXTINF:0,Fox Sports 3 HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/561403181?ticket=84A61C2D0C3248801115085144FD8E6BBA795C50&profile=pass
-#EXTINF:0,Fox Sports HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/276572667?ticket=2FDD108AA2E8C9421D9DD2DC4DFC3E7FB7761630&profile=pass
 #EXTINF:0,Fox Sports Premium HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/2087213762?ticket=BFD71D621CEA3E22C4B7E77855EB9D444F52E4DA&profile=pass
@@ -101,18 +95,24 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1175691798?ticket=6ED76
 #EXTINF:0,TNT Series
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1385412175?ticket=59609D2D058C94F3041120D7C3D7EB3FDA587AC5&profile=pass
-#EXTINF:0,TNT Sports 2
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/23087794?ticket=B37C15B5BCDFD9C754162C8F3EEE14D1BAC4D9BB&profile=pass
 #EXTINF:0,TNT Sports HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1532423823?ticket=1DA1C08531770641C51386F4286E494AE36A31E0&profile=pass
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.29.5:9981/stream/channelid/23087794?ticket=B37C15B5BCDFD9C754162C8F3EEE14D1BAC4D9BB&profile=pass
 #EXTINF:0,Universal Channel
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/52619076?ticket=75D7FABF27E93EFEE83816A96AA276E49884FBC7&profile=pass
 #EXTINF:0,Warner Channel HD
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1716220080?ticket=8371F8942A0BD752373FD3A63EE8D4B7399C6F45&profile=pass
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.29.5:9981/stream/channelid/2120919110?ticket=2889E1E15FFD0B877FD03B94A5A24F9564903D04&profile=pass
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://admin:ultranet@192.168.29.5:9981/stream/channelid/500473184?ticket=EBC1E0D656864C8A2A7E8829826A6B71AC0D2F5F&profile=pass
 #EXTINF:0,TVN
 #EXTVLCOPT:network-caching=1000
 http://192.168.29.2/0.m3u8
