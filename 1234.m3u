@@ -80,7 +80,7 @@ http://admin:ultranet@192.168.29.5:9981/stream/channelid/1686171464?ticket=A5D02
 #EXTINF:0,Paramount
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/1475852659?ticket=3C76FA3C8B0CB71300582260CA6B0235C9EED95F&profile=pass
-#EXTINF:0,Space HD
+#EXTINF:0,Telemundo Internacional
 #EXTVLCOPT:network-caching=1000
 http://admin:ultranet@192.168.29.5:9981/stream/channelid/659324492?ticket=5B785BFE9F124E625A5C5805884BC94ECDD0E103&profile=pass
 #EXTINF:0,Studio Universal Full HD
