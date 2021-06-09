@@ -1,130 +1,313 @@
 #EXTM3U
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1848455507?ticket=E36B9C5350A9E4C3AF1E8355CE348EC8C1B55AC9&profile=pass
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1328076708?ticket=C89F03C89CC564DE9AC20A4595FDF94124808A79&profile=pass
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/345706949?ticket=09E54055565705BF4E8ED713852B650167CE88BE&profile=pass
-#EXTINF:0,Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1120900929?ticket=E7EB1F30E1EBB755C6315959A04FEA5171987536&profile=pass
-#EXTINF:0,Cinecanal HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/735894113?ticket=3A1A90DE795205B7A4340DADEE707255A0AE7C74&profile=pass
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1125741517?ticket=A701D69E83F1F75C59B01A2AA8F95E8E28FDE78F&profile=pass
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1945450564?ticket=B30258E96E018555F929B2DF526E87E439FFEB35&profile=pass
-#EXTINF:0,Discovery Home and Health
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1540006577?ticket=E88A79A42553B49CA2C78342B40FF82E8C41495A&profile=pass
-#EXTINF:0,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1679474105?ticket=F72512C4B2A00A8E4F5994EFEE2483569437DB48&profile=pass
-#EXTINF:0,Disney Jr
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/160473475?ticket=155E0A1AD0800153E9205BA7EB33F8E89D17B1FF&profile=pass
-#EXTINF:0,ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/898015852?ticket=C7AD1BC7D0DFEC91CEE91FEC119E4C21C9EC22A9&profile=pass
-#EXTINF:0,Fox HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1837762305?ticket=7BFF9004218AEF86F8CF9AD2498C5FE7280C1025&profile=pass
-#EXTINF:0,Fox Premium Series
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/367066400?ticket=69179381410A950F7558482D98BECFCEF846961D&profile=pass
-#EXTINF:0,Fox Sports HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/276572667?ticket=2FDD108AA2E8C9421D9DD2DC4DFC3E7FB7761630&profile=pass
-#EXTINF:0,Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/399316699?ticket=556A0E70F45556337C3A868CFBDD03E99C68883B&profile=pass
-#EXTINF:0,Fox Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/561403181?ticket=84A61C2D0C3248801115085144FD8E6BBA795C50&profile=pass
-#EXTINF:0,Fox Sports Premium HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/2087213762?ticket=BFD71D621CEA3E22C4B7E77855EB9D444F52E4DA&profile=pass
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1210066171?ticket=E22F843719EF4265E56EE574970EEF58A7E63140&profile=pass
-#EXTINF:0,FXM
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1748260964?ticket=AE2D8C746CF8DA4148CC84855FC9E999FB6901E0&profile=pass
-#EXTINF:0,Golden Premier
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/15510802?ticket=C386D437B4EA6E94A4DA3B09D928B49A9E49D70E&profile=pass
-#EXTINF:0,HBO
-#EXTVLCOPT:network-caching=2000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1411346884?ticket=2770C0A06DBB520006E229ACE4A741053473C7F7&profile=pass
-#EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=2000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/490627453?ticket=8EC270330F9525D5CFFDD9342319124EDA6F3788&profile=pass
-#EXTINF:0,HBO Family Full HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/456325932?ticket=604C65FC1BFFC47CF7ED9A4E402695E85AEF8577&profile=pass
-#EXTINF:0,History
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/611408131?ticket=AC1B3B4D38B0BED0F834CDF17D944A655E68D07E&profile=pass
-#EXTINF:0,Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1250277975?ticket=BDD5B12025F765297EAC7BF7A0286EEA60E44FE0&profile=pass
-#EXTINF:0,Natgeo Wild HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1686171464?ticket=A5D02819D6CA69AA7E49C37F128C07934525BC8A&profile=pass
-#EXTINF:0,Paramount
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1475852659?ticket=3C76FA3C8B0CB71300582260CA6B0235C9EED95F&profile=pass
-#EXTINF:0,Telemundo Internacional
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/659324492?ticket=5B785BFE9F124E625A5C5805884BC94ECDD0E103&profile=pass
-#EXTINF:0,Studio Universal Full HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1107758541?ticket=CC6A2C49B0E6CF38A236945488F48A72FFF7B77B&profile=pass
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/585192991?ticket=CC092AC6093F0D53F415AF6A4054FF12CDB3D0E2&profile=pass
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1175691798?ticket=6ED76142D4DB1DFE9DAF08722525930197FF837C&profile=pass
-#EXTINF:0,TNT Series
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1385412175?ticket=59609D2D058C94F3041120D7C3D7EB3FDA587AC5&profile=pass
-#EXTINF:0,TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1532423823?ticket=1DA1C08531770641C51386F4286E494AE36A31E0&profile=pass
-#EXTINF:0,TNT Sports 2
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/23087794?ticket=B37C15B5BCDFD9C754162C8F3EEE14D1BAC4D9BB&profile=pass
-#EXTINF:0,Universal Channel
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/52619076?ticket=75D7FABF27E93EFEE83816A96AA276E49884FBC7&profile=pass
-#EXTINF:0,Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/1716220080?ticket=8371F8942A0BD752373FD3A63EE8D4B7399C6F45&profile=pass
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/2120919110?ticket=2889E1E15FFD0B877FD03B94A5A24F9564903D04&profile=pass
 #EXTINF:0,A&E
 #EXTVLCOPT:network-caching=1000
-http://admin:ultranet@192.168.29.5:9981/stream/channelid/500473184?ticket=EBC1E0D656864C8A2A7E8829826A6B71AC0D2F5F&profile=pass
-#EXTINF:0,TVN
+http://192.168.29.5:9981/stream/channelid/1107758541?ticket=7572889347EF5E8504D09470561881F1D3BA23F9&profile=pass
+#EXTINF:0,AE MUNDO
 #EXTVLCOPT:network-caching=1000
-http://192.168.29.2/0.m3u8
-#EXTINF:0,MEGA
+http://192.168.29.5:9981/stream/channelid/1798041798?ticket=CA4BF8173B25C35EB52EB0263C49866E72920FCC&profile=pass
+#EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
-http://192.168.29.2/8.m3u8
+http://192.168.29.5:9981/stream/channelid/1848455507?ticket=9903C9F0601ED5028E81611A62D22DB3FDDF980B&profile=pass
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/623113213?ticket=56CEB091935C3CE2428DE86227D2BD1C74E01DE1&profile=pass
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1328076708?ticket=61000ACBE40574116809A4731E7BB8189AAFDD10&profile=pass
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1817648977?ticket=F923AEBBACDA0D84C743662394F087F0278AB3E0&profile=pass
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/345706949?ticket=C78F46E851C9EA090DA4394910563F4C6D4FCE56&profile=pass
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/2099520445?ticket=651390F1B95C21FC7938A9F474D531DD78F61EA5&profile=pass
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/548563534?ticket=1C623A9BCB03DCDDB05482D49F8AD45ADB2636AB&profile=pass
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1120900929?ticket=7F4FD7759DFE1993E6D7C148C0B742439CDCE55E&profile=pass
 #EXTINF:0,CHV
 #EXTVLCOPT:network-caching=1000
-http://192.168.29.2/4.m3u8
+http://192.168.29.5:9981/stream/channelid/1137834383?ticket=0AE946FFA811233B3C7C9DB02315AE2C4CDF8B52&profile=pass
+#EXTINF:0,CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/786075313?ticket=F3E27A6994A7C3693FA8D3DF8D8C935363230F9E&profile=pass
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/735894113?ticket=A3D784FA470ED7DE09C6AB8B5ADAA58494BD6CEF&profile=pass
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1125741517?ticket=E2D7EA4B827108C78F21048C944D335919777F2C&profile=pass
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1701593994?ticket=025CB46E73465CF4EECCA3BC8F8727DF668EBC38&profile=pass
+#EXTINF:0,CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1788865676?ticket=0110B627226C7628070D01E42CF215275EF3A5E3&profile=pass
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1734054293?ticket=E0A6AD88FA531C6E566334FFCBD530052A274E9A&profile=pass
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1945450564?ticket=444CEDB1C08520F3E2CD0AA82FFBA6032DBFF70D&profile=pass
+#EXTINF:0,Discovery Home and Health
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1540006577?ticket=698A2BF334CF3F415BB3EF7D87EBF1936B23E1D1&profile=pass
+#EXTINF:0,Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/2094536515?ticket=308F19EBF0F1D40BFE50FA5ACA006AD0BFB534F6&profile=pass
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1323470977?ticket=2F4DC0CC8A13FF3537D4C3AD400DB14AC3125AF0&profile=pass
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1132437345?ticket=10EF461A59B68B4FAE473C5F550924A8761FD9E9&profile=pass
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/565621387?ticket=94DF9E53F2F03B1409D9427A63685CF6F69C129C&profile=pass
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/160473475?ticket=C53138F3C8F8428B2CEDC18A19EF664C98BAF2AE&profile=pass
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1929937595?ticket=63F8BEC05C9F46680A247A17CF3FDFD0EC10B30E&profile=pass
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/67909250?ticket=CBC589F4249C44C853B45FB93DCE5DCF592F8865&profile=pass
+#EXTINF:0,E Entertainment
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1876754627?ticket=124D9CB6F9FB55E8B91DC7CE4694095A1B76E3E9&profile=pass
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1679474105?ticket=2BDD36A8F396D43FE8B1BE6249051F508987AE5B&profile=pass
+#EXTINF:0,ENLACE
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/811903806?ticket=EF82349F591765DC48D096DB09FC8426BD700D5C&profile=pass
+#EXTINF:0,ESNE TV
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1006037953?ticket=F057C24F26903089892E0252162371C47DBA540B&profile=pass
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1985891891?ticket=1AC354206D782E5202DAC2B0D843A97EBAC0E4D2&profile=pass
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/313105646?ticket=7DA646D1DBF973420AB6FE386E280885F7E40F3C&profile=pass
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/148845258?ticket=B1E0A827C0E57705F51BFBBC9B6BD425073B7363&profile=pass
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/898015852?ticket=BA735E78287B22149B8E4EB99F5B31D05D0B1ED1&profile=pass
+#EXTINF:0,Fox HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1837762305?ticket=38F6D90B224C2ECFB5E353B87FD2A963EF14A5F0&profile=pass
+#EXTINF:0,Fox Life
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1661964827?ticket=46776158A8CBE5531364C46377240ABA32B4AB0B&profile=pass
+#EXTINF:0,FOX P ACTION
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1717545933?ticket=792EF1DCC20CF3CF5D158BDEC2C4146EF88A3436&profile=pass
+#EXTINF:0,FOX P MOVIES
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/2108366471?ticket=7EBBE653CE9C39E743FCF2E1E288E0D25DE11DD0&profile=pass
+#EXTINF:0,FOX P SERIES E
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/557572571?ticket=401CAED869D93322D594C7570B44EBB80DDE2BE5&profile=pass
+#EXTINF:0,Fox Premium Series
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/367066400?ticket=F968B32DA14BF38F6123E441D71F37DF22FA2003&profile=pass
+#EXTINF:0,FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/594614889?ticket=1A4D60F0F731A58BCDA62AC1088B310AAB013992&profile=pass
+#EXTINF:0,Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/399316699?ticket=D1245BC6EB456F96E4B036AE344BF9FE3AF8AFA0&profile=pass
+#EXTINF:0,FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1266950440?ticket=3BE9BC858C02675A4586DAF96B86E5F5194EE54E&profile=pass
+#EXTINF:0,Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/561403181?ticket=F4E76C1F97023A46B3460C7E0A481D01603C573E&profile=pass
+#EXTINF:0,Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/276572667?ticket=247FC7B3ACA7BD3FDA18EF27C5A51558D221DF71&profile=pass
+#EXTINF:0,Fox Sports Premium HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/2087213762?ticket=6512B96B3078F51D3CE51F8AE83697AF41A32E55&profile=pass
+#EXTINF:0,FRANCE 24
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1185483679?ticket=0AB22C2D6C28AE05942F971A3C50D2821917C816&profile=pass
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/912199076?ticket=AF12FE18097AF068DDA4A82864232304A2A71DFC&profile=pass
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1210066171?ticket=D6A6AB4F21394D8E2D0BE40A58DE5B8DC9BDC19F&profile=pass
+#EXTINF:0,FX MOVIES
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/934303197?ticket=2B6D8E381CFE3A66810425328219AD2A807CF652&profile=pass
+#EXTINF:0,FXM
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1748260964?ticket=FE3ADFF60CF6B9ACEA5129DCB2E6ACDC00EF972D&profile=pass
+#EXTINF:0,Golden Premier
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/15510802?ticket=557AE4B1D4B89A7E388E59EF1FC97B6861ED8FB2&profile=pass
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1411346884?ticket=54A0907E85889DB577432104BCD657895E93E1B0&profile=pass
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1813926856?ticket=8A0543DE932B5CFDABD065829F644A4C80354EB7&profile=pass
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/490627453?ticket=5754E5005608FF677DCCB7E4DCFBAEF5AE47D2D4&profile=pass
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/734361980?ticket=2D43B1B7DBED74173DCAD803C2CF2C70D0A5AD00&profile=pass
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/630267025?ticket=59CDF2F9250BD75B15BE728BFC59BC35D51E1E2C&profile=pass
+#EXTINF:0,HBO Family Full HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/456325932?ticket=6B713FA21CC9CB05229267FB1736ECAF83F8827D&profile=pass
+#EXTINF:0,HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1906664610?ticket=007F35F37045C3DCB624F96F8DF290FAA1038B10&profile=pass
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/611408131?ticket=CB3F4B0507EC0FEBF91F90A49D5509F6573E9B41&profile=pass
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1113014336?ticket=A3BBF15DE0774952DCCF186F0B307F5AE9F7F8A9&profile=pass
+#EXTINF:0,Home and Health
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1368192898?ticket=44C02498B6B45D7E89592CAE7B6E6B5DD50130E8&profile=pass
+#EXTINF:0,I-SAT
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/51701664?ticket=79287580DB5C1CB818EDC49716180A44AF589915&profile=pass
 #EXTINF:0,LA RED
 #EXTVLCOPT:network-caching=1000
-http://192.168.29.2/6.m3u8
+http://192.168.29.5:9981/stream/channelid/1722519811?ticket=17573CB9565913B115874DF6ED5B72FDBD4BE3B5&profile=pass
+#EXTINF:0,MEGA
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1521444285?ticket=EECABE010D9EA763758D2095065C722396D250B3&profile=pass
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/352945745?ticket=07FC66976C38DE1211D3093D6C91375FD24FE1A1&profile=pass
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1250992014?ticket=CC7C61E9E9C2D8C32A1D6FAF75EA1A207DDB397B&profile=pass
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1250277975?ticket=5202342AD363504575896063591030C3FE21137E&profile=pass
+#EXTINF:0,NatGeo Kids
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1080333545?ticket=290B2125A53E46C14FA203BA8254DCB4127DD18D&profile=pass
+#EXTINF:0,Natgeo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1686171464?ticket=D7686E744508BF81DB2D2295F0FBFF4F0E4FA8B7&profile=pass
+#EXTINF:0,Nick
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/2120919110?ticket=F05CAF1F5AE3527A91003305CE9616E657406B6D&profile=pass
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/179624815?ticket=0AFD2C4C61858E7766973E21E850BB86FBBB0B19&profile=pass
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1639990854?ticket=0B2C441A465C9E9780D9FF51B0BE934DEF59562D&profile=pass
+#EXTINF:0,Paramount
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1475852659?ticket=CA975E0F980BBB48C02962B9125311C1E759B1A3&profile=pass
+#EXTINF:0,RCN NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1374356183?ticket=C6A32334C32543B6C56A7BA21550C9C1AF154CCD&profile=pass
+#EXTINF:0,SIN LIMITES
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1032478147?ticket=53A68F6FE3DC860E356F514948BB1D6211493BE4&profile=pass
+#EXTINF:0,SONY
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/520477269?ticket=27671758F8A884A9D78AB3E574223B2C8D15D1EB&profile=pass
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1905436229?ticket=4089F2C93CB0FCF6DF0A437EE184054151453DFF&profile=pass
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/500473184?ticket=059836EA7D85E4E8387A073D89ED8D692BFF2514&profile=pass
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1682091349?ticket=136DACF108EB5A303595C2B9FDED34CAA8CDD7C4&profile=pass
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/741231287?ticket=AFC20B954045B8DC6FC92B2082B956FB7CEEA023&profile=pass
+#EXTINF:0,TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1880571229?ticket=5559BA6476FECA007AF58E8BB1F89141014BBEE7&profile=pass
+#EXTINF:0,Telemundo Internacional
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/659324492?ticket=0E55E1236164170BDD1FE070C8D914C19A9D00CE&profile=pass
+#EXTINF:0,TELETRAK
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1258450355?ticket=A641B611A8105DEDF3F9B4C9E2AEAF2D4A7F7406&profile=pass
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/585192991?ticket=E6BCAE92ACDABA49DCFB7C2588BC969D5D2AEDDB&profile=pass
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1154683303?ticket=700E3B749BE4EFD621172A3CE630230B5BBF7780&profile=pass
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/628641898?ticket=D9BA0E04459023F966C812DA0EAA41DDAD2BCCDA&profile=pass
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1175691798?ticket=1A24CEFF3FF17D374B1B29F8F57610DE4FEC35DE&profile=pass
+#EXTINF:0,TNT Series
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1385412175?ticket=1432FB9B4EA6688B1FE9A3C4ED3669AFC365E278&profile=pass
+#EXTINF:0,TNT Sport 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/263759056?ticket=EABADD8C1B7FF540FA41F5630DAD25D94545B727&profile=pass
+#EXTINF:0,TNT Sport 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/110816796?ticket=A405AA940EF227B0178644C75FDFA756505EDF24&profile=pass
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/23087794?ticket=20FDF1F405DDAD5920DDA02C6A67EDCDC6BDEC40&profile=pass
+#EXTINF:0,TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1532423823?ticket=1D2EE285515F5EF157AAA8AAF252077DB92A3574&profile=pass
+#EXTINF:0,TRAVEL and LIVING
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/847836564?ticket=2D5BB6CF67AB1CA36C49ED902CFB256532E12C3A&profile=pass
 #EXTINF:0,TRECE
 #EXTVLCOPT:network-caching=1000
-http://192.168.29.2/2.m3u8
+http://192.168.29.5:9981/stream/channelid/1485836768?ticket=61A5EDD89EC4DFE49E788F8E69E3EE279EB9AB24&profile=pass
+#EXTINF:0,TV EDUCA CHILE
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/558989253?ticket=B218FA7B76D059CA914E3EB5BB88FEC607484851&profile=pass
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1141878947?ticket=A552DDDA52785DAF7F49AB8A2472D3C46F413FE1&profile=pass
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/424304156?ticket=F09F108BED0B6B6CE3777A8A4B9A4671469282D8&profile=pass
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1801040575?ticket=E66E7923B22824771E513809E9C9C9DB36A7D3A5&profile=pass
+#EXTINF:0,Universal Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/52619076?ticket=5EFD987B67DE22DAB398BFAD17FD5F3FAD81CE04&profile=pass
+#EXTINF:0,VIAX
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1817431065?ticket=DD08A87730D161F7DF1DC3CC51895FFD7ABF964B&profile=pass
+#EXTINF:0,Warner
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/417456381?ticket=9EB03D52D90042D6421C75F799D49ADBEA85A872&profile=pass
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/1716220080?ticket=062D1C0E7BD2DA03C626DD4AF05F5AC1CE0FFF4A&profile=pass
+#EXTINF:0,ZONA LATINA
+#EXTVLCOPT:network-caching=1000
+http://192.168.29.5:9981/stream/channelid/677332879?ticket=2B6E9479273E7ED46F8BB680A101F40872915D0C&profile=pass
