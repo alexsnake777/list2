@@ -123,7 +123,7 @@ http://192.168.29.5:9981/stream/channelid/367066400?ticket=F968B32DA14BF38F6123E
 #EXTVLCOPT:network-caching=1000
 http://192.168.29.5:9981/stream/channelid/594614889?ticket=1A4D60F0F731A58BCDA62AC1088B310AAB013992&profile=pass
 #EXTINF:0,Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://192.168.29.5:9981/stream/channelid/399316699?ticket=D1245BC6EB456F96E4B036AE344BF9FE3AF8AFA0&profile=pass
 #EXTINF:0,FOX SPORTS 3
 #EXTVLCOPT:network-caching=1000
