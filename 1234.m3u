@@ -269,6 +269,3 @@ http://192.168.29.5:9981/stream/channelid/1716220080?ticket=B90FAAA55898B49DBA9A
 #EXTINF:0,ZONA LATINA
 #EXTVLCOPT:network-caching=1000
 http://192.168.29.5:9981/stream/channelid/677332879?ticket=BEB8810DE8546561807A8BD52EDB17F992D36F4A&profile=pass
-#EXTINF:0
-#EXTVLCOPT:network-caching=1000
-upnp://http://192.168.28.2:8096/dlna/5f816937-5249-47dd-a89c-7a7b2faa7c12/contentdirectory/control?ObjectID=movies_19898
