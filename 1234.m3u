@@ -225,7 +225,7 @@ http://192.168.29.5:9981/stream/channelid/628641898?ticket=D2550C8005BB6998EAE55
 #EXTVLCOPT:network-caching=1000
 http://192.168.29.5:9981/stream/channelid/1175691798?ticket=2CCBFE747BD55E9BB8E8EC954EED3A1885E001F1&profile=pass
 #EXTINF:0,TNT Series
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=3000
 http://192.168.29.5:9981/stream/channelid/1385412175?ticket=D1A624AE86247494E3DD5667B213E292C4D9D8AA&profile=pass
 #EXTINF:0,TNT Sport 2
 #EXTVLCOPT:network-caching=1000
