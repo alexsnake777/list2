@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://179.49.210.233:9981/stream/channelid/1848455507?ticket=CDA98D47DA64120A2CEC42F84E827A81565C0869&profile=pass
-#EXTINF:0,Animal Planet HD
