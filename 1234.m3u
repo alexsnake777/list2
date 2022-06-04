@@ -209,39 +209,15 @@ https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Spectrum Channel * | CL
 #EXTVLCOPT:network-caching=1000
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:0, Puranoticia * | CL
-#EXTVLCOPT:network-caching=1000
-https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:0, EnerGeek * | CL
-#EXTVLCOPT:network-caching=1000
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Energeek Radio * | CL
-#EXTVLCOPT:network-caching=1000
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Control.VG * | CL
-#EXTVLCOPT:network-caching=1000
-https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, RCKTV * | CL
 #EXTVLCOPT:network-caching=1000
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Maule Vision * | CL
 #EXTVLCOPT:network-caching=1000
 https://makestreaming.online:3761/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0, VClassicTV * | CL
-#EXTVLCOPT:network-caching=1000
-https://5eff35271151c.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Freedom FM * | CL
 #EXTVLCOPT:network-caching=1000
 https://vdohd.cl:1936/8028/8028/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Juntos TV * | CL
-#EXTVLCOPT:network-caching=1000
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8?PlaylistM3UCL
-#EXTINF:0, Rocket Channel * | AR
-#EXTVLCOPT:network-caching=1000
-https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?PlaylistM3UCL
-#EXTINF:0, Lo Hermida TV * | CL
-#EXTVLCOPT:network-caching=1000
-https://5eff35271151c.streamlock.net:1936/8150/8150/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Liceo Bicentenario Politecnico Caupolican TV * | CL
 #EXTVLCOPT:network-caching=1000
 https://stmv2.voxtvhd.com.br/liceobicentenario/liceobicentenario/playlist.m3u8?PlaylistM3UCL
@@ -269,9 +245,6 @@ https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, HiperTV * | CL
 #EXTVLCOPT:network-caching=1000
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Onda Radio TV * | CL
-#EXTVLCOPT:network-caching=1000
-https://5eff35271151c.streamlock.net:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, CSTV * | CL
 #EXTVLCOPT:network-caching=1000
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
