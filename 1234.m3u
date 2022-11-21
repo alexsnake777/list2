@@ -1,385 +1,508 @@
 #EXTM3U
-#EXTINF:0,A&E
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/4
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/5
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/6
-#EXTINF:0,CANAL DE LAS ESTRELLAS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/7
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/8
-#EXTINF:0,CINECANAL
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/10
-#EXTINF:0,CINEMAX
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/11
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/13
-#EXTINF:0,Discovery Home and Health
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/14
-#EXTINF:0,Discovery ID
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/15
-#EXTINF:0,Discovery Kids
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/16
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/17
-#EXTINF:0,Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/18
-#EXTINF:0,Disney Jr
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/19
-#EXTINF:0,E Entertainment
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/21
-#EXTINF:0,ENLACE
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/22
-#EXTINF:0,ESPN
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/24
-#EXTINF:0,ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/25
-#EXTINF:0,FOX SPORTS 3
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/29
-#EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/32
-#EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/33
-#EXTINF:0,HBO Family
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/34
-#EXTINF:0,HBO PLUS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/35
-#EXTINF:0,History
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/36
-#EXTINF:0,I-SAT
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/37
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/40
-#EXTINF:0,Nat Geo
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/41
-#EXTINF:0,Nick
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/43
-#EXTINF:0,Nick Jr
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/44
-#EXTINF:0,RCN NOVELAS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/45
-#EXTINF:0,SONY
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/47
-#EXTINF:0,Space
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/48
-#EXTINF:0,TBS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/49
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/50
-#EXTINF:0,TELEMUNDO
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/51
-#EXTINF:0,TNT
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/52
-#EXTINF:0,TNT Sport 3
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/54
-#EXTINF:0,TRAVEL and LIVING
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/56
-#EXTINF:0,TV EDUCA CHILE
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/58
-#EXTINF:0,Universal Channel
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/60
-#EXTINF:0,VIAX
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/61
-#EXTINF:0,Warner Channel
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/62
-#EXTINF:0,ZONA LATINA
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/63
-#EXTINF:0,France 24
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/282
-#EXTINF:0,CHILEVISION
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/253
-#EXTINF:0,24 chile
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/255
-#EXTINF:0,CHV
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/9
-#EXTINF:0,MEGA
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/252
-#EXTINF:0,TRECE
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/254
-#EXTINF:0,FOX SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/260
-#EXTINF:0,Paramount Channel HD 
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/266
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/278
-#EXTINF:0,Comedy Central HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/279
-#EXTINF:0,Disney HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/280
-#EXTINF:0,ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/281
-#EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/284
-#EXTINF:0,24 HORAS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/298
-#EXTINF:0,HBO POP HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/273
-#EXTINF:0,A&E HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/275
-#EXTINF:0,History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/283
-#EXTINF:0,Pasiones HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/285
-#EXTINF:0,Sony HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/286
-#EXTINF:0,Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/288
-#EXTINF:0,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/261
-#EXTINF:0,AE Mundo
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/299
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/300
-#EXTINF:0,ATLAS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/301
-#EXTINF:0,CLICK
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/302
-#EXTINF:0,CLOVER
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/303
-#EXTINF:0,CNN CHILE 2
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/304
-#EXTINF:0,CNN Espanol
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/305
-#EXTINF:0,DHE
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/306
-#EXTINF:0,TRU TV
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/291
-#EXTINF:0,TVN
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/257
-#EXTINF:0,EL GOURMET 
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/293
-#EXTINF:0,Disney XD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/20
-#EXTINF:0,ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/26
-#EXTINF:0,FOX SPORTS 1 HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/258
-#EXTINF:0,FOX SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/259
-#EXTINF:0,TNT Series HD 
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/256
-#EXTINF:0,Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/263
-#EXTINF:0,TNT SPORTS HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/55
-#EXTINF:0,TNT Sports 2
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/264
-#EXTINF:0,SPACE CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/265
-#EXTINF:0,STUDIO UNIVERSAL HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/267
-#EXTINF:0,HBO XTREME
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/268
-#EXTINF:0,WARNER TV
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/269
-#EXTINF:0,HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/270
-#EXTINF:0,SYFY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/271
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/277
-#EXTINF:0,LAS ESTRELLAS 
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/289
-#EXTINF:0,CNN Chile
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/12
-#EXTINF:0,ESPN PLUS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/290
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/292
-#EXTINF:0,Golden Plus HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/295
-#EXTINF:0,DIRECTV SPORTS +
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/296
-#EXTINF:0,TOP CINE
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/297
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/287
-#EXTINF:0,FOX SPORTS
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/28
-#EXTINF:0,BABY TV
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/307
-#EXTINF:0,BOOMERANG
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/308
-#EXTINF:0,CANAL COCINA
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/309
-#EXTINF:0,LIFETIME
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/310
 #EXTINF:0, TV Costa | CL
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/335
+http://192.168.28.4:25461/ultranet/ultranet/335
 #EXTINF:0, TV Quinta Region | CL
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/336
-#EXTINF:0, Canal de la Costa | CL
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/337
+http://192.168.28.4:25461/ultranet/ultranet/336
 #EXTINF:0, Canal 2 de San Antonio | CL
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/338
-#EXTINF:0,E!
+http://192.168.28.4:25461/ultranet/ultranet/338
+#EXTINF:0,Venus
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/311
-#EXTINF:0,ESPN 1 HD
+http://192.168.28.4:25461/ultranet/ultranet/502
+#EXTINF:0,ViaX
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/312
+http://192.168.28.4:25461/ultranet/ultranet/503
+#EXTINF:0,Warner
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/504
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/505
+#EXTINF:0,Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/506
+#EXTINF:0,Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/507
+#EXTINF:0,Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/508
+#EXTINF:0,24 Horas
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/509
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/510
+#EXTINF:0,AE Mundo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/511
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/512
+#EXTINF:0,ATRES SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/513
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/514
+#EXTINF:0,AXN EMM-CHILE01
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/515
+#EXTINF:0,AXN EMM-CHILE02
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/516
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/517
+#EXTINF:0,America TV HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/518
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/519
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/520
+#EXTINF:0,CHV
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/521
+#EXTINF:0,CHV HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/522
+#EXTINF:0,CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/523
+#EXTINF:0,CNN Chile HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/524
+#EXTINF:0,CNN Espanol
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/525
+#EXTINF:0,Canal 1 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/526
+#EXTINF:0,Canal 13
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/527
+#EXTINF:0,Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/528
+#EXTINF:0,Canal 24 Horas HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/529
+#EXTINF:0,Canal Claro
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/530
+#EXTINF:0,Canal Institucional HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/531
+#EXTINF:0,Canal de Las estrellas
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/532
+#EXTINF:0,Caracol HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/533
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/534
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/535
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/536
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/537
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/538
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/539
+#EXTINF:0,Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/540
+#EXTINF:0,Clover HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/541
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/542
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/543
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/544
+#EXTINF:0,Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/545
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/546
+#EXTINF:0,Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/547
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/548
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/549
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/550
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/551
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/552
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/553
+#EXTINF:0,Disney HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/554
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/555
+#EXTINF:0,Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/556
+#EXTINF:0,E Entertainment
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/557
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/558
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/559
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/560
+#EXTINF:0,ESPN 2 CO
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/561
 #EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/313
-#EXTINF:0,ESPN 4
+http://192.168.28.4:25461/ultranet/ultranet/562
+#EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/315
-#EXTINF:0,ESPN EXTRA
+http://192.168.28.4:25461/ultranet/ultranet/563
+#EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/316
-#EXTINF:0,FM REWIND
+http://192.168.28.4:25461/ultranet/ultranet/564
+#EXTINF:0,ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/317
-#EXTINF:0,FOX SPORTS 2
+http://192.168.28.4:25461/ultranet/ultranet/565
+#EXTINF:0,ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/318
-#EXTINF:0,FOX SPORTS 1
+http://192.168.28.4:25461/ultranet/ultranet/566
+#EXTINF:0,ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/319
-#EXTINF:0,FX 2
+http://192.168.28.4:25461/ultranet/ultranet/567
+#EXTINF:0,ESPN EXTRA HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/320
-#EXTINF:0,GOLDEN
+http://192.168.28.4:25461/ultranet/ultranet/568
+#EXTINF:0,ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/321
+http://192.168.28.4:25461/ultranet/ultranet/569
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/570
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/571
+#EXTINF:0,El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/572
+#EXTINF:0,Enlace
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/573
+#EXTINF:0,FOX Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/574
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/575
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/576
+#EXTINF:0,Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/577
+#EXTINF:0,Fox Sports
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/578
+#EXTINF:0,Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/579
+#EXTINF:0,Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/580
+#EXTINF:0,Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/581
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/582
+#EXTINF:0,France 24 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/583
+#EXTINF:0,GOLPERU HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/584
+#EXTINF:0,GolTV HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/585
+#EXTINF:0,Golden HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/586
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/587
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/588
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/589
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/590
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/591
 #EXTINF:0,HBO HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/322
-#EXTINF:0,HBO 2 HD 2
+http://192.168.28.4:25461/ultranet/ultranet/592
+#EXTINF:0,HBO HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/323
-#EXTINF:0,HBO FAMILY HD
+http://192.168.28.4:25461/ultranet/ultranet/593
+#EXTINF:0,HBO POP HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/324
-#EXTINF:0,HBO Plus HD
+http://192.168.28.4:25461/ultranet/ultranet/594
+#EXTINF:0,HBO Plus
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/325
-#EXTINF:0,HBO XTREME 2
+http://192.168.28.4:25461/ultranet/ultranet/595
+#EXTINF:0,HBO XTREME HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/326
-#EXTINF:0,HISTORY CHANNEL 2
+http://192.168.28.4:25461/ultranet/ultranet/596
+#EXTINF:0,HBO XTREME HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/327
-#EXTINF:0,I-Sat HD
+http://192.168.28.4:25461/ultranet/ultranet/597
+#EXTINF:0,HBO XTREME SD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/329
-#EXTINF:0,LA RED
+http://192.168.28.4:25461/ultranet/ultranet/598
+#EXTINF:0,HOLA TV HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/331
-#EXTINF:0,LOVE NATURE
+http://192.168.28.4:25461/ultranet/ultranet/599
+#EXTINF:0,History 2 HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/332
-#EXTINF:0,NAT GEO HD
+http://192.168.28.4:25461/ultranet/ultranet/600
+#EXTINF:0,History Channel
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/333
-#EXTINF:0,NICK MUSIC
+http://192.168.28.4:25461/ultranet/ultranet/601
+#EXTINF:0,History Channel HD
 #EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet%201/ultranet%201/334
+http://192.168.28.4:25461/ultranet/ultranet/602
+#EXTINF:0,Home and Health
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/603
+#EXTINF:0,I-Sat
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/604
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/605
+#EXTINF:0,Kanal D Drama HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/606
+#EXTINF:0,La Red
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/607
+#EXTINF:0,La Red HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/608
+#EXTINF:0,Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/609
+#EXTINF:0,Latina HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/610
+#EXTINF:0,Lolly Kids HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/611
+#EXTINF:0,Love Nature HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/612
+#EXTINF:0,MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/613
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/614
+#EXTINF:0,MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/615
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/616
+#EXTINF:0,MTV LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/617
+#EXTINF:0,Mega
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/618
+#EXTINF:0,Movistar Deportes HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/619
+#EXTINF:0,NTV HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/620
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/621
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/622
+#EXTINF:0,Nick HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/623
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/624
+#EXTINF:0,Nick Music HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/625
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/626
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/627
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/628
+#EXTINF:0,PlayBoy HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/629
+#EXTINF:0,Playboy HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/630
+#EXTINF:0,RCN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/631
+#EXTINF:0,RCN Novelas
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/632
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/633
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/634
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/635
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/636
+#EXTINF:0,Sel Colombia HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/637
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/638
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/639
+#EXTINF:0,Space
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/640
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/641
+#EXTINF:0,Stingray Concerts HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/642
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/643
+#EXTINF:0,Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/644
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/645
+#EXTINF:0,TBS Very Funny HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/646
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/647
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/648
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/649
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/650
+#EXTINF:0,TNT SPORT 2 ( EX CDF PREMIUM)
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/651
+#EXTINF:0,TNT SPORT 3 ( EX CDF BASICO)
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/652
+#EXTINF:0,TNT SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/653
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/654
+#EXTINF:0,TRUTV HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/655
+#EXTINF:0,TV+ HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/656
+#EXTINF:0,TVEDUCA
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/657
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/658
+#EXTINF:0,TVN HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/659
+#EXTINF:0,Teen Nick HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/660
+#EXTINF:0,Telehit HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/661
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/662
+#EXTINF:0,Travel and Living
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/663
+#EXTINF:0,TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/664
+#EXTINF:0,UCL HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/665
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/666
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.4:25461/ultranet/ultranet/667
