@@ -8,9 +8,6 @@ http://192.168.28.4:25461/ultranet/ultranet/336
 #EXTINF:0, Canal 2 de San Antonio | CL
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.4:25461/ultranet/ultranet/338
-#EXTINF:0,Venus
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet/ultranet/502
 #EXTINF:0,ViaX
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.4:25461/ultranet/ultranet/503
@@ -389,12 +386,6 @@ http://192.168.28.4:25461/ultranet/ultranet/627
 #EXTINF:0,Pasiones HD
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.4:25461/ultranet/ultranet/628
-#EXTINF:0,PlayBoy HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet/ultranet/629
-#EXTINF:0,Playboy HD
-#EXTVLCOPT:network-caching=1000
-http://192.168.28.4:25461/ultranet/ultranet/630
 #EXTINF:0,RCN HD
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.4:25461/ultranet/ultranet/631
